@@ -1,4 +1,3 @@
-julien@ubuntu:~/0x15. File descriptors and permissions$ cat 1-main.c
 #include <stdio.h>
 #include <stdlib.h>
 #include "main.h"
